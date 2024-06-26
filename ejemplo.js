@@ -1,4 +1,4 @@
-saludo("Angel")
+saludo("Mundo")
 
 function saludo(nombre) {
 
